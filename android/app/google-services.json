@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006642355965",
+    "project_id": "authenticationpractice-6abe2",
+    "storage_bucket": "authenticationpractice-6abe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006642355965:android:5ba3eeb0399100d1256894",
+        "android_client_info": {
+          "package_name": "com.example.android.authpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eTwRIGoZnEf3KU7bCyMU1r1eWjdGrnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006642355965:android:084d9a47de11ff29256894",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eTwRIGoZnEf3KU7bCyMU1r1eWjdGrnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
